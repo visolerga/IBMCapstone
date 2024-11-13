@@ -1,0 +1,14 @@
+Which site has the largest successful launches?
+Guess meaning bigger payload. VAFB SLC-4E, with 9600 Kgs
+
+Which site has the highest launch success rate?
+KSC -LC-39a
+
+Which payload range(s) has the highest launch success rate?
+Between 3000 and 4000 Kgs with 72.73%
+
+Which payload range(s) has the lowest launch success rate?
+Between 6000 and 7000 Kgs with 0.00%
+
+Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest launch success rate?
+B5 with  100%
